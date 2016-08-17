@@ -1,0 +1,8 @@
+C:\ShareConnect\codedUI\sc-test\sc-test\bin\Debug\sc-test.dll
+C:\ShareConnect\codedUI\sc-test\sc-test\bin\Debug\sc-test.pdb
+C:\ShareConnect\codedUI\sc-test\sc-test\obj\Debug\sc-test.dll
+C:\ShareConnect\codedUI\sc-test\sc-test\obj\Debug\sc-test.pdb
+C:\ShareConnect\codedUI\sc-test\sc-test\bin\Debug\sc-test.dll.config
+C:\ShareConnect\codedUI\sc-test\sc-test\obj\Debug\sc-test.csprojResolveAssemblyReference.cache
+C:\ShareConnect\codedUI\sc-test\sc-test\bin\Debug\log4net.dll
+C:\ShareConnect\codedUI\sc-test\sc-test\bin\Debug\log4net.xml
